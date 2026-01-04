@@ -4,11 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://solved.ac/wlgns9807">
-    <img src="https://img.shields.io/badge/Solved.ac-wlgns9807-blue?style=for-the-badge" />
-  </a>
-</div>
 
 <br/>
 
@@ -18,6 +13,8 @@
 - 지속적인 성장을 위한 사고 방식과 실행 과정을 문서화
 
 <br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgns9807)](https://solved.ac/wlgns9807/)
 
 ## 🛠️ 기술스택
 
