@@ -54,7 +54,18 @@
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
-<h2>SSAFY Project<h2>
-| ![로그인 화면](https://github.com/user-attachments/assets/0acba9d6-ef6d-4724-ba9c-bb60b4ae25cc) |![회원가입 화면](https://github.com/user-attachments/assets/691c147e-e603-4883-a207-331550f5dd12)|
-| --- | --- |
-| **로그인 화면** <br> 로그인을 진행하며 회원가입 페이지로 이동 가능합니다. | **회원가입 화면** <br> 회원가입을 진행할 수 있습니다. |
+<div>
+
+## 📘SSAFY Project
+| ![인사이트](./Image/Insite.png) |
+| --- |
+| ***🏙️ InSite (상권 데이터 분석 플랫폼)***  [  InSite GitHub 바로가기](https://github.com/Jihoons-Growthlab/InSiteInSSAFY)
+공공 데이터를 기반으로 상권을 분석하고, 예비 창업자에게 인사이트를 제공하는 데이터 분석 플랫폼입니다. 
+|![철거왕](./Image/철거왕.png)|
+| ***🥊 Demolition King (실시간 인터랙션 게임)***    [철거왕 GitHub 바로가기](https://github.com/Jihoons-Growthlab/DemolitionKingInSSAFY)
+MediaPipe 기반 모션 인식 기술을 활용해, 실제 복싱 동작으로 상호작용하며 채팅·랭킹 경쟁을 즐길 수 있는 레트로 스타일 멀티플레이 게임
+|![지피티](./Image/Zippt.png)|
+| ***🤖 Gippt (AI 기반 부동산 보조 서비스)***  [Zippt GitHub 바로가기](https://github.com/Jihoons-Growthlab/GipptInSSAFY)
+카카오맵 기반 UI에서 아파트 실거래, 리뷰, 상권, 뉴스까지 한눈에 확인하고 AI 기반 요약 및 유사 단지 추천까지 제공하는 부동산 플랫폼입니다.
+</div>
+
