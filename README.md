@@ -53,3 +53,8 @@
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
+
+<h2>SSAFY Project<h2>
+| ![로그인 화면](https://github.com/user-attachments/assets/0acba9d6-ef6d-4724-ba9c-bb60b4ae25cc) |![회원가입 화면](https://github.com/user-attachments/assets/691c147e-e603-4883-a207-331550f5dd12)|
+| --- | --- |
+| **로그인 화면** <br> 로그인을 진행하며 회원가입 페이지로 이동 가능합니다. | **회원가입 화면** <br> 회원가입을 진행할 수 있습니다. |
