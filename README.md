@@ -61,7 +61,7 @@
 | --- |
 | ***🏙️ InSite (상권 데이터 분석 플랫폼)***  [  InSite GitHub 바로가기](https://github.com/Jihoons-Growthlab/InSiteInSSAFY)
 공공 데이터를 기반으로 상권을 분석하고, 예비 창업자에게 인사이트를 제공하는 데이터 분석 플랫폼입니다. 
-|![철거왕](./Image/초기-online-video-cutter.com_.gif)|
+|![철거왕](./Image/초기-_online-video-cutter.com_.gif)|
 | ***🥊 Demolition King (실시간 인터랙션 게임)***    [철거왕 GitHub 바로가기](https://github.com/Jihoons-Growthlab/DemolitionKingInSSAFY)
 MediaPipe 기반 모션 인식 기술을 활용해, 실제 복싱 동작으로 상호작용하며 채팅·랭킹 경쟁을 즐길 수 있는 레트로 스타일 멀티플레이 게임
 |![지피티](./Image/ai요약.gif)|
