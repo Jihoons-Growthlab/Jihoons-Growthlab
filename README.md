@@ -33,7 +33,6 @@
   <br/>
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Oracle SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
@@ -57,9 +56,9 @@
 <div>
 
 ## 🔄 현재 진행 중인 Project
-| ![인사이트](./Image/influxedDBSuccess.png) |
+| ![인플럭스](./Image/influxedDBSuccess.png) |
 | --- |
-| ***⏰ 시계열 DB 기반 설비 데이터 수집·분석 미니 프로젝트***  [  Time-Series-Lab GitHub 바로가기](hhttps://github.com/Jihoons-Growthlab/Time-Series-Lab)
+| ***⏰ 시계열 DB 기반 설비 데이터 수집·분석 미니 프로젝트***  [  Time-Series-Lab GitHub 바로가기](https://github.com/Jihoons-Growthlab/Time-Series-Lab)
 
 ## 📘 SSAFY Project
 | ![인사이트](./Image/Insite.png) |
