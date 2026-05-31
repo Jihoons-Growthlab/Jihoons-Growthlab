@@ -55,7 +55,7 @@
 <div>
 
 ## 🔄 현재 진행 중인 Project
-| ![배포자동화](./Image/AutoForge.png) |
+| ![배포자동화](./Image/프로젝트소개1.png) |
 | --- |
 | ***⏰ DLL기반 배포자동화 프로젝트***  [  AutoForge GitHub 바로가기](https://github.com/Jihoons-Growthlab/AutoForge)
 
