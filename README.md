@@ -61,11 +61,14 @@
 
 ## 🔄 자기 개발
 | ![인플럭스](./Image/influxedDBSuccess.png) |
-| --- |
-| ***⏰ 시계열 DB 기반 설비 데이터 수집·분석 미니 프로젝트***  [  Time-Series-Lab GitHub 바로가기](https://github.com/Jihoons-Growthlab/Time-Series-Lab)
+| :---: |
+| **⏰ 시계열 DB 기반 설비 데이터 수집·분석 미니 프로젝트** |
+| [Time-Series-Lab GitHub 바로가기](https://github.com/Jihoons-Growthlab/Time-Series-Lab) |
+
 | ![배포자동화](./Image/프로젝트소개1.png) |
-| --- |
-| ***🖌️ DLL기반 배포자동화 프로젝트***  [  AutoForge GitHub 바로가기](https://github.com/Jihoons-Growthlab/AutoForge)
+| :---: |
+| **🖌️ DLL 기반 배포 자동화 프로젝트** |
+| [AutoForge GitHub 바로가기](https://github.com/Jihoons-Growthlab/AutoForge) |
 
 ## 📘 SSAFY Project
 | ![인사이트](./Image/Insite.png) |
