@@ -55,7 +55,7 @@
 <div>
 
 ## 🔄 현재 진행 중인 Project
-| ![CompanyYachtDice](./Image/CompanyYachtDice.png) |
+| ![CompanyYachtDice](./Image/07-settings.png) |
 | --- |
 | ***🚀 실시간 게임 서버 및 Unity 확장을 고려한 웹 게임 플랫폼 개발*** [CompanyYachtDice GitHub 바로가기](https://github.com/Jihoons-Growthlab/CompanyYachtDice) |
 
