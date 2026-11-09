@@ -55,11 +55,14 @@
 <div>
 
 ## 🔄 현재 진행 중인 Project
+| ![CompanyYachtDice](./Image/CompanyYachtDice.png) |
+| --- |
+| ***🚀 실시간 게임 서버 및 Unity 확장을 고려한 웹 게임 플랫폼 개발*** [CompanyYachtDice GitHub 바로가기](https://github.com/Jihoons-Growthlab/CompanyYachtDice) |
+
+## 🔄 자기 개발
 | ![조선소 통합 관리 시스템](./Image/cover.png) |
 | --- |
 | ***🤖 효율적인 바이브 코딩 실전 프로젝트***  [  조선소 통합 관리 시스템 GitHub 바로가기](https://github.com/Jihoons-Growthlab/shipyard-claude)
-
-## 🔄 자기 개발
 | ![인플럭스](./Image/influxedDBSuccess.png) |
 | --- |
 | ***⏰ 시계열 DB 기반 설비 데이터 수집·분석 미니 프로젝트*** [Time-Series-Lab GitHub 바로가기](https://github.com/Jihoons-Growthlab/Time-Series-Lab)|
