@@ -56,6 +56,13 @@
 | --- |
 | ***🚀 실시간 게임 서버 및 Unity 확장을 고려한 웹 게임 플랫폼 개발*** [CompanyYachtDice GitHub 바로가기](https://github.com/Jihoons-Growthlab/CompanyYachtDice) |
 
+
+| [![SIWS Unity 디지털 트윈 블록 탑재 시연](https://raw.githubusercontent.com/Jihoons-Growthlab/Shipyard-SIWS/main/docs/media/twin-erection-playback.gif)](https://github.com/Jihoons-Growthlab/Shipyard-SIWS/blob/main/docs/demo.md) |
+| --- |
+| **SIWS · 조선소 생산관리 ERP와 디지털 트윈** |
+| 호선별 생산계획을 ERP에서 관리하고, Unity WebGL에서 계획 일정에 맞춰 블록 탑재를 재생합니다. 포털에서 조선소 지도와 장비 관제 화면을 확인할 수 있습니다. |
+| [GitHub 저장소](https://github.com/Jihoons-Growthlab/Shipyard-SIWS) · [화면별 데모](https://github.com/Jihoons-Growthlab/Shipyard-SIWS/blob/main/docs/demo.md) · [기능 명세](https://github.com/Jihoons-Growthlab/Shipyard-SIWS/blob/main/docs/spec.md) |
+
 ## 🔄 자기 개발
 | ![조선소 통합 관리 시스템](./Image/cover.png) |
 | --- |
